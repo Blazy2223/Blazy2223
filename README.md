@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blazy2223
 - 👀 I’m interested in codeing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning HTML,CSS,JS,REACTJS,PYTHON,NODE.JS.
 - 💞️ I’m looking to collaborate on it company
 - 📫 How to reach me ...
 
